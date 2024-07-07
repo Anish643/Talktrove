@@ -11,7 +11,7 @@ import { QueryProvider } from "@/components/providersUI/query-provider";
 const font = Noto_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ChimeQuest",
+  title: "TalkTrove by Anish Peshwe",
   description: "Chat Application",
 };
 
